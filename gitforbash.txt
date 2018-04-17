@@ -22,3 +22,7 @@ $ git remote == checks status of any remotes
 $ git remote add origin "url" == adding link under alias origin
 $ git remote -v == same as git remote but more verbose
 $ git push origin master == pushes master to origin 
+$ git pull origin master == pulls github back to local
+$ git log origin/master == checks the stats on linked url
+$ git fetch == a git pull without merge (updates origin/master to local)
+$ git remote add upstream "url" == adds another remote to local; merge conflict
