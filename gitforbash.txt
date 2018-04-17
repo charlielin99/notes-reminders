@@ -1,0 +1,20 @@
+Git Tips for Bash:
+$ diff -u oldfile.format newfile.format == comparing old file with new file
+$ git log == checking version of a file (press q to cancel)
+$ git log --stat == gives statistics on the version control
+$ git diff oldfileID newfileID == comparing two git versions
+$ git checkout fileID == change git version
+$ git init == creates .git file in target folder
+$ git status == shows the files and untracked files of the git repo
+$ git add filename == adds files to the staging area to be prepared for commit
+$ git commit == adds files from staging area to actual repo
+$ git diff == compares working directory changes to those in staging area
+$ git diff --staged == compares staging area with previous commit
+$ git reset --hard == resets all changes in working directory/staging area
+$ git branch == checks status of all branches
+$ git branch branchName == creates new branch
+$ git checkout branchName == navigate to alternate branch
+$ git log --graph --oneline branch1 branch2 == compares commit history 
+$ git merge master branchName == merges everything into master
+$ git show fileID == shows changes between a file and parent
+$ git branch -d branchName == deletes a branch label after merge
