@@ -18,3 +18,7 @@ $ git log --graph --oneline branch1 branch2 == compares commit history
 $ git merge master branchName == merges everything into master
 $ git show fileID == shows changes between a file and parent
 $ git branch -d branchName == deletes a branch label after merge
+$ git remote == checks status of any remotes
+$ git remote add origin "url" == adding link under alias origin
+$ git remote -v == same as git remote but more verbose
+$ git push origin master == pushes master to origin 
