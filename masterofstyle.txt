@@ -1,0 +1,8 @@
+Useful Resources:
+- Bootstrap
+- Font Awesome
+- Google Fonts
+- CSS Zen Garden
+- UnSplash
+- UI Gradients
+- Code Pen
