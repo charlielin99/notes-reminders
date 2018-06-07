@@ -1,5 +1,6 @@
 Useful Resources:
 - Bootstrap
+- Semantic UI
 - Font Awesome
 - Google Fonts
 - CSS Zen Garden
