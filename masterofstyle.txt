@@ -7,3 +7,6 @@ Useful Resources:
 - UnSplash
 - UI Gradients
 - Code Pen
+- Caesar: CSS EASING ANIMATION TOOL
+- HtmlColorCodes
+- easings.net
